@@ -1,3 +1,4 @@
+Elizabeth Zapata / Jose David Corrales
 ropero = {   }  # Diccionario sin datos, el cliente los llena
 continuar = True # inicializamos
 
